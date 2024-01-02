@@ -1,0 +1,58 @@
+body{
+    font-family: roboto;
+}
+
+.navbar-expand{
+    color: gainsboro;
+    background-color: gainsboro;
+}
+
+header>nav:nth-child(1){
+    padding: 0;
+    border-bottom: 2px solid rgb(156, 151, 151);
+}
+
+header>nav:nth-child(1) a{
+    font-size: .7rem;
+}
+
+header>nav:nth-child(1) i{
+    color: rgb(245, 238, 144);
+}
+
+.btn-cdr-yellow{
+    color: black;
+    background-color: rgb(245, 238, 144);
+    border-color: rgb(252, 246, 166);
+}
+
+.btn-cdr-yellow:hover{
+    background-color: rgb(247, 240, 154);
+    border-color:  rgb(252, 246, 166);;
+}
+
+.basket-link{
+    color: black;
+    margin-left: 10px;
+}
+
+.basket-link>i{
+    color: black;
+    margin-right: 10px;
+}
+
+.badge-notiflication{
+    position: absolute !important;
+   top: 14px !important;
+   margin-left: -1.5em;
+   margin-top: -.3em;
+   padding: .2em .45em;
+   font-size: .6em;
+
+}
+
+
+
+
+
+
